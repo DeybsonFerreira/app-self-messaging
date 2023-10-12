@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/self-messaging.props" />
+</Project>

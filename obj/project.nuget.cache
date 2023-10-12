@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFlyfYs/b3dXgKuhJvAyrpI708gucTPeu39I5Y/BfCl1dS98dsvzlmHLpb1FGkXk8Fzs0kHbxa8EyrCqe4RnRg==",
+  "success": true,
+  "projectFilePath": "/home/deybson/Projects/self-messaging/self-messaging.csproj",
+  "expectedPackageFiles": [
+    "/home/deybson/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/6.0.0/microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/7.0.12/microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.12.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.2/microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.codeanalysis.common/4.0.0/microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.codeanalysis.csharp/4.0.0/microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.codeanalysis.razor/6.0.0/microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/home/deybson/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/deybson/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.reflection.metadata/5.0.0/system.reflection.metadata.5.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
+    "/home/deybson/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
